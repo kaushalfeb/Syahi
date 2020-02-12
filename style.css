@@ -1,0 +1,10 @@
+*{
+	box-sizing: border-box;
+	margin: none;
+	padding: none;
+}
+body{
+	background: url("photos/texture.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% , 100%;
+}
