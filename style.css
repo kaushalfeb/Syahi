@@ -11,22 +11,26 @@ body{
 .full{
 	width: 98%;
 	height: 95vh;
-	xbackground: lightgreen;
 	margin: auto;
 	margin-top: 15px;
 	border-style: solid;
 	border-color: black;
 	border-bottom:none;
 }
-.nav-links{
+.header{
+	display: flex;
+}
+.logo,.nav-links{
+	flex: 1;
 	display: flex;
 }
 .nav-links{
 	justify-content: space-around;
 	list-style: none;
 	margin-bottom: 0px;
+	background: lightblue;
+	width: 100%;
 }
-
 .nav-link{
 	color: black;
 	font-size: 18px;
