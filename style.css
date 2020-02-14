@@ -16,14 +16,16 @@ body{
 	border-style: solid;
 	border-color: black;
 	border-bottom:none;
+
 }
 .header{
 	display: flex;
+	background: blue;
 }
 .logo,.nav-links{
 	flex: 1;
 	display: flex;
-}
+}	
 .nav-links{
 	justify-content: space-around;
 	list-style: none;
@@ -35,4 +37,7 @@ body{
 	color: black;
 	font-size: 18px;
 	text-decoration: none;
+}
+.logo{
+	background: yellow;
 }
