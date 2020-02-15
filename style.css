@@ -20,7 +20,6 @@ body{
 }
 .header{
 	display: flex;
-	background: blue;
 }
 .logo,nav{
 	flex: 1;
@@ -29,28 +28,37 @@ body{
 	display: flex;
 	justify-content: space-around;
 	list-style: none;
-	margin-bottom: 0px;
-	height: 100%;
-	background: pink;
-	bottom: -100px;
 }
 .nav-link{
-	color: lightblue;
-	font-size: 20px;
+	color: #010042;
+	font-size: 18px;
 	text-decoration: none;
 }
 .logo{
-	background: yellow;
+	font-family:Silence Rocken;
+	font-size: 70px;
+	color:#071386; 
+	margin-left: 50px;
+	margin-top: -10px;
 }
-.One{
+
+.presentation{
 	display: flex;
-	background: blue;
 }
-.Two{
-	flex:1;
-	background: pink;
+.hero,.poem{
+	flex: 1;
 }
-.Three{
-	flex:1;
-	background: yellow;
+img{
+	width: 700px;
+	height: 500px;
+	margin-top: -50px;
+}
+.poem{
+	font-family: "Kingthings Trypewriter 2";
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 50px;
+	color: #4D4C4C;
+	margin-top: 50px;
 }
