@@ -1,7 +1,6 @@
 @font-face {
-    font-family: 'Kingthings Trypewriter 2';
-    src: url('https://github.com/kaushalfeb/Syahi/blob/master/font/webfontkit-20200901-121621/kingthings_trypewriter_2-webfont.woff') format('woff'),
-         url('https://github.com/kaushalfeb/Syahi/blob/master/font/webfontkit-20200901-121621/kingthings_trypewriter_2-webfont.woff2') format('woff2');
+    font-family: 'Kingthings';
+    src: url('./font/Kingthings_Trypewriter_2.ttf');
     font-weight: normal;
     font-style: normal;
 
