@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'kingthings_trypewriter_2Rg';
-    src: url('kingthings_trypewriter_2-webfont.woff2') format('woff2'),
-         url('kingthings_trypewriter_2-webfont.woff') format('woff');
+    src: url('https://github.com/kaushalfeb/Syahi/blob/master/font/webfontkit-20200901-121621/kingthings_trypewriter_2-webfont.woff') format('woff'),
+         url('https://github.com/kaushalfeb/Syahi/blob/master/font/webfontkit-20200901-121621/kingthings_trypewriter_2-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
